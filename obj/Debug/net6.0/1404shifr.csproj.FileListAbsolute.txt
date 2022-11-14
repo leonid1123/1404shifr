@@ -1,0 +1,15 @@
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\bin\Debug\net6.0\1404shifr.exe
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\bin\Debug\net6.0\1404shifr.deps.json
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\bin\Debug\net6.0\1404shifr.runtimeconfig.json
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\bin\Debug\net6.0\1404shifr.dll
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\bin\Debug\net6.0\1404shifr.pdb
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\obj\Debug\net6.0\1404shifr.csproj.AssemblyReference.cache
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\obj\Debug\net6.0\1404shifr.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\obj\Debug\net6.0\1404shifr.AssemblyInfoInputs.cache
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\obj\Debug\net6.0\1404shifr.AssemblyInfo.cs
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\obj\Debug\net6.0\1404shifr.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\obj\Debug\net6.0\1404shifr.dll
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\obj\Debug\net6.0\refint\1404shifr.dll
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\obj\Debug\net6.0\1404shifr.pdb
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\obj\Debug\net6.0\1404shifr.genruntimeconfig.cache
+D:\YandexDisk\Колледж\2022-2\1404\1404shifr\obj\Debug\net6.0\ref\1404shifr.dll
