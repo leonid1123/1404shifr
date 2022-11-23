@@ -8,8 +8,9 @@ int sdvig = 0;
 do
 {
     Console.WriteLine("Введите слово и нажмите ENTER");
-    userInputText = Console.ReadLine();
+    userInputText = Console.ReadLine().ToLower();
 } while (userInputText.Length < 1);
+string[] userInputWords = userInputText.Split(' ');
 do
 {
     Console.WriteLine("Введите сдвиг в виде целого числа и нажмите ENTER");
@@ -37,3 +38,7 @@ for(int i = 0; i < userInputText.Length; i++)
 Console.WriteLine("Зашифрованное слово:{0}",shifr);
 //решить проблемы:большие буквы, пробел, знаки припенания, латиница
 //сделать запись в БД
+//метод для шифрования слова. 
+string CodeWord(string _abcShifr, string _word, int _sdvig){
+
+}
